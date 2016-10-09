@@ -77,4 +77,4 @@ $    ant -f build_zip.xml all
 Experimental experience
 ---------------------
 在安装第二部最后编译的时候出现了错误，根据提示发现是g++没有正常安装
-，重新安装g++之后，重新进行编译就解决了问题
+，重新安装g++之后，重新进行configure就解决了问题
